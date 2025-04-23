@@ -13,5 +13,7 @@
 			Background="Azure"
 			Padding="5"
 			HorizontalAlignment="Right" 
-			VerticalAlignment="Bottom"/>
+			VerticalAlignment="Bottom"
+			Canvas.Bottom="50"
+			Canvas.Right="50"/>
 </Window>

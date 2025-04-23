@@ -9,13 +9,13 @@ namespace ComnceptTest
         {
             InitializeComponent();
             int x = 0;
-            while (x < 10)
+            /*while (x < 10)
             {
                 x++;
                 worldBtn.Content = "Wait " + x;
                 Delay(2000);
                 worldBtn.Content = "Howdy!";
-            }
+            }*/
             worldBtn.Content = "Hello World!";
         }
 
